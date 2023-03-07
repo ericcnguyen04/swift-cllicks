@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Swift Clicks
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The world is advancing and it is now a common skill to learn how to type. This software is going to be used to develop typing skills for the next generation. Keep up with innovation and start off with a few swift clicks
 
 ## Available Scripts
 
