@@ -6,12 +6,15 @@ The world is advancing and it is now a common skill to learn how to type. This s
 TBD
 
 ## Wireframe
+![Screenshot](/public/img/web.png)
 
 ## RESTFUL routing chart 
 <!-- List of links -->
+<img src="public/img/rest.png" height='600px'/>
 
 ## ERDs
 <!-- Relationships -->
+![Screenshot](/public/img/erd.png)
 
 ## API
 
