@@ -37,4 +37,4 @@ TBD
 
 ## Stretch goals
 - Display all the stats on the users testing process
-- Make it have a nice user interface 1
+- Make it have a nice user interface 
